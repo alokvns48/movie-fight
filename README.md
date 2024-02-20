@@ -21,6 +21,14 @@ Welcome to the Movie Fight website! This is a project where users can compare th
 3. Select two movies using the search bar.
 4. View the comparison of the selected movies' statistics.
 
+## Screenshots
+
+ ![Capture](https://github.com/alokvns48/movie-fight/assets/63348356/d7e3cede-14b5-4c22-a921-eeced70c66ee)
+ ![Capture2](https://github.com/alokvns48/movie-fight/assets/63348356/e40ed44b-2496-40cf-9d5d-e33d5ad283bb)
+ ![3](https://github.com/alokvns48/movie-fight/assets/63348356/30dc7dd2-612c-4fab-8e57-7f8467439475)
+
+
+
 ## Credits
 - **OMDB API**: Data for movies is fetched from the [OMDB API](http://www.omdbapi.com/).
 - **Icons**: Icons used in the website are sourced from [Font Awesome](https://fontawesome.com/).
